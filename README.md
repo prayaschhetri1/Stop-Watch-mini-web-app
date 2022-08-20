@@ -1,5 +1,9 @@
-# Deploy Link : https://timerappcustomhook.netlify.app/
+##  A fully functional timer app using react custom hooks,useEffect and useState to maintain the states.
 
-# A TIMER APP
+## Deployed Link : https://stopwatch-mini-web.vercel.app
 
-- A fully functional timer app using react custom hooks,useEffect and useState to maintain the states.
+## Demo picture :
+
+<img src="https://github.com/prayaschhetri1/portfolio-pictures/blob/master/Screenshot%20(156).png?raw=true" alt="stopwatch" >
+
+
